@@ -181,7 +181,7 @@ img {
 .fv img {
   height: 100vh;
   -o-object-fit: cover;
-     object-fit: cover;
+    object-fit: cover;
   min-height: 550px;
 }
 
@@ -202,6 +202,8 @@ img {
   font-size: 4rem;
   text-align: center;
 }
+
+
 
 /*--------------------*/
 /*concept
@@ -236,7 +238,7 @@ img {
 .concept-img-wrapper {
   max-width: 44%;
   -o-object-fit: cover;
-     object-fit: cover;
+    object-fit: cover;
   margin-left: 30px;
 }
 
@@ -433,7 +435,7 @@ img {
 input, textarea {
   resize: none;
   -moz-appearance: none;
-       appearance: none;
+      appearance: none;
   -webkit-appearance: none;
   outline: none;
   border: 1px solid #141414;
