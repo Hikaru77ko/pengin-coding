@@ -203,7 +203,9 @@ img {
   text-align: center;
 }
 
-
+.slick-arrow {
+  display: none !important;
+}
 
 /*--------------------*/
 /*concept
